@@ -1,0 +1,1 @@
+import{_ as t,W as a,X as n,Y as e,Z as o}from"./framework-a045178c.js";const c={},r=e("h1",{id:"payment-todo",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#payment-todo","aria-hidden":"true"},"#"),o(" Payment (TODO)")],-1),s=[r];function _(d,i){return a(),n("div",null,s)}const h=t(c,[["render",_],["__file","payment.html.vue"]]);export{h as default};
